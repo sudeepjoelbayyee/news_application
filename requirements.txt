@@ -1,0 +1,6 @@
+requests
+io
+tkinter
+urllib
+pillow
+webbrowser
