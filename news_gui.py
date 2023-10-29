@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use('Agg')
 import io
 import requests
 from tkinter import *
